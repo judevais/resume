@@ -1,0 +1,6 @@
+## Ignore the stupid mac temp files
+.DS_Store
+
+## Ignore everything except the pdf output
+rendercv_output/*
+!rendercv_output/Jude_Vais_CV.pdf
