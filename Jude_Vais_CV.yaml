@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
   name: Jude Vais
-  headline:
+  headline: Experienced, self-taught DevOps Engineer with a passion for building efficient, reliable systems.
   location: Kent, OH
   email: jude.vais@gmail.com
   photo:
@@ -14,9 +14,6 @@ cv:
       username: judevais
   custom_connections:
   sections:
-    # Welcome to RenderCV:
-    #   - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-    #   - See the [documentation](https://docs.rendercv.com) for more details.
     education:
       - institution: San Francisco State University
         area: Philosophy and Religion
@@ -67,7 +64,6 @@ cv:
         highlights:
           - Quality Engineering Lead responsible for designing and leading the effort to implement a mobile continuous integration solution using industry leading tools. 
           - Other automation projects include environment management and deployment, load and performance testing, and third party certifications.
-      
     
     skills:
       - label: Languages
